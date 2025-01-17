@@ -1,3 +1,5 @@
+![Preview](https://github.com/user-attachments/assets/11b042a9-5070-4e06-8ba9-06bf59c24850)
+
 # 🌟 Update Explorer Interface with Kimi Minimalist Theme
 
 Enhance your Explorer interface with the Kimi Minimalist theme! It offers:
